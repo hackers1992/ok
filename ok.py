@@ -49,8 +49,8 @@ logo="""
 --------------------------------------------------
                                 """
 
-cusr = "thandabotol"
-cpwd = "gorombotol"
+cusr = "a"
+cpwd = "a"
 def u():
     os.system("clear")
     print(logo)
